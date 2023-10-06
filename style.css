@@ -13,12 +13,12 @@
     justify-content: space-evenly;
     position: sticky;
 }
-/* .logo{
+.logo{
     background-image: url("Amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
-} */
+}
 .nav-logo{
     height: 50px;
     width: 100px;
@@ -208,7 +208,7 @@ ul{
     justify-content: center;
     align-items: center;
 }
-.logo{
+.logo1{
     background-image: url("Amazon_logo.png");
     background-size: cover;
     color: white;
